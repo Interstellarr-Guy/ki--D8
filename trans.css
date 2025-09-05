@@ -1,0 +1,16 @@
+body{
+    color: black;
+    margin: 0;
+}
+.a {
+    position: absolute;
+    top: 430px;
+    right: 650px;
+    z-index: 1;
+    background-color: hsla(0, 0%, 78%, 0.3);
+    padding: 10px;
+    
+}
+p {
+    font-size: 1.3em;
+}
